@@ -1,6 +1,10 @@
 # mojif\*ck
 mojif\*ck - brainf\*ck but it's with emojis
 
+Installing
+=========
+```$ npm install -g mojifuck```
+
 Usage
 =====
 

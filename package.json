@@ -1,5 +1,5 @@
 {
-  "name": "lel",
+  "name": "mojifuck",
   "version": "1.0.0",
   "description": "mojifuck - brainfuck but its with emojis",
   "main": "src/main.js",
