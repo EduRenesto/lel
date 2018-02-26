@@ -6,6 +6,8 @@ Usage
 
 `mojifuck` is an interactive interpreter. Just call it from a terminal and have fun!
 
+| Emoji | Brainfuck | Description |
+| --- | --- | --- |
 | 😂 | + | increase current cell             |
 | 😭 | - | decrease current cell             |
 | 👄 | . | print content of the current cell |
